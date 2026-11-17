@@ -68,8 +68,7 @@ An AI assistant (Claude, Anthropic) was used for brainstorming the analysis plan
 ## References
 
 1. Sakar, C. O., & Kastro, Y. (2018). Online Shoppers Purchasing Intention Dataset. UCI Machine Learning Repository. https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
-2. Sakar, C. O., Polat, S. O., Katircioglu, M., & Kastro, Y. (2019). Real-time prediction of online shoppers' purchasing intention using multilayer perceptron and LSTM recurrent neural networks. *Neural Computing and Applications*, 31, 6893–6908.
-3. Google Analytics Help. How Page Value is calculated. https://support.google.com/analytics/answer/2695658
-4. Breiman, L. (2001). Random Forests. *Machine Learning*, 45, 5–32.
-5. Oshiro, T. M., Perez, P. S., & Baranauskas, J. A. (2012). How Many Trees in a Random Forest? *MLDM 2012*, LNCS 7376, 154–168.
-6. Pedregosa, F. et al. (2011). Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research*, 12, 2825–2830.
+2. Google Analytics Help. How Page Value is calculated. https://support.google.com/analytics/answer/2695658
+3. Breiman, L. (2001). Random Forests. *Machine Learning*, 45, 5–32.
+4. Oshiro, T. M., Perez, P. S., & Baranauskas, J. A. (2012). How Many Trees in a Random Forest? *MLDM 2012*, LNCS 7376, 154–168.
+5. Pedregosa, F. et al. (2011). Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research*, 12, 2825–2830.

@@ -1,6 +1,6 @@
 # Online Shoppers Purchase Prediction — ES 678 Course Project
 
-**Author:** [Your name], [Roll number]
+**Author:** Nelson Singh Shagolsem, 26250027
 
 **Research question:** How do feature importance and classification thresholds affect performance in identifying purchasing sessions while controlling false positives?
 
